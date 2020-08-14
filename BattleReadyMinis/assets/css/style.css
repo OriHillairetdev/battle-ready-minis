@@ -1,0 +1,157 @@
+html, body {
+  
+  font-family: Arial, Helvetica, sans-serif;
+   width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    
+}
+
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/wolfsbane.jpg");
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+
+
+#circle-container-center{
+  width: 300px;
+  height: 300px;
+  padding: 30px;
+  border-style: solid;
+  border-color: #cccccc;
+  border-width: 1px;
+  border-radius: 50%;
+  margin: left: auto;
+  float:left;
+  margin-left:200px;
+}
+
+#circle-bg-center{
+  background: url("../images/center_model.jpg") no-repeat center center  ;
+  height: 100%;
+  border-radius: 50%; }
+
+  #circle-container-left{
+  width: 300px;
+  height: 300px;
+  padding: 30px;
+  border-style: solid;
+  border-color: #cccccc;
+  border-width: 1px;
+  border-radius: 50%;
+  margin: left: auto;
+  float: left;
+  margin-left:18px;
+  
+}
+
+#circle-bg-left{
+  background: url("../images/center_model.jpg") no-repeat center center  ;
+  height: 100%;
+  border-radius: 50%; }
+
+#circle-container-right{
+  width: 300px;
+  height: 300px;
+  padding: 30px;
+  border-style: solid;
+  border-color: #cccccc;
+  border-width: 1px;
+  border-radius: 50%;
+  margin: right: auto;
+  float:right;
+  margin-right:200px;
+}
+
+#circle-bg-right{
+  background: url("../images/center_model.jpg") no-repeat center center  ;
+  height: 100%;
+  border-radius: 50%; }
+
+
+
+}
+
+
+.pages{
+    display:inline;
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #777777;
+    text-align: center;
+
+}
+
+.border_grey_bottom{
+      border: 1px solid grey;
+    background-color: #4C4C4C;
+    width: auto; 
+height: 500px; 
+padding :50px;
+  
+   
+  padding-top:5px;
+  border-style:solid;
+  border-color:black;
+  border-width:1px;
+  padding-left:3px;
+  padding-bottom:10px;
+  word-wrap: break-word;
+}
+
+footer{
+  height: 150px;
+
+}
+
+.social-networks{
+  text-align: center;
+}
+
+.social-networks li{
+  display: inline;
+}
+
+.social-networks i {
+  font-size: 160%;
+  margin: 1%;
+  padding: 5%;
+  color: #777777;
+  
+}
+
+.what_i_do{
+    
+    display: inline-block;
+    color: white;
+    text-align: justify;
+    padding: 50px;
+    margin: 0 auto;
+    word-wrap:break-all;
+    
+    
+}
+#about-me{
+text-align: center;
+    padding:20%;
+    margin: 20%;
+    
+}
+
