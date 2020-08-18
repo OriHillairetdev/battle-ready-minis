@@ -155,3 +155,36 @@ text-align: center;
     
 }
 
+    .lets-get-started {
+text-transform: uppercase;
+    }
+
+.contact-heading {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+    display: inline-block;
+    
+}
+
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #fafafa;
+    background-color: #e84610;
+}
+
+.contact-me{
+    display: block;
+    text-align: center;
+}
+
+
+
