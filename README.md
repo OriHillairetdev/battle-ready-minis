@@ -1,33 +1,30 @@
 1. UX
 1.1. Project Goals
-    The website is desgined to be a commision painting site for wargames and hobby painters if a 
-    person does not want to or have the time to paint his own minitures he can come here and make use of the service 
+The website is desgined to be a commision painting site for wargames and hobby painters if a 
+ person does not want to or have the time to paint his own minitures he can come here and make use of the service 
 
-    Once they have clicked on the website they will get a small description and have 3 options 
-    home gallery and contact us 
+Once they have clicked on the website they will get a small description and have 3 options 
+home gallery and contact us 
 
-    Home holds all of the base information
+Home holds all of the base information
 
-    Gallery shows examples of the qauility of work 
+Gallery shows examples of the qauility of work 
 
-    Contact will be where the customer can contact the studio 
+Contact will be where the customer can contact the studio 
 
-    The end goal is a simple website that will allow the customer to get all the information they beed 
-    and get into contact with in a simple and easy manner.
+The end goal is a simple website that will allow the customer to get all the information they beed 
+and get into contact with in a simple and easy manner.
+
 
 1.2. User Stories
-* As an owner, I want to show off what we can do to attract more clients.
-* As an owner, I want to offer the possibility to book online to avoid unnecessary calls during busy hours.
-* As an owner, I want my website to be easy recognisable through the icon in the tab and also through the name on the fixed navbar while the customers are navigating through the site.
-* As a user, I want to be able to get in touch with the restaurant for any reason.
-* As a user, I want to be able to check the opening hours and to see the restaurant's location.
-* As a curious user, I want to know more about the owner's stories.
-* As a person with an allergy, I want to be able to check out the menu in advance to see if this place is a good option for me.
-* As a person celebrating a special occasion, I want to be able to book a table in advance so nothing goes wrong.
-* As a regular customer, I want to check out the menu before my next visit so I can check out if there are any new dishes.
-* As a potential client, I would like to see the the menu and compare it to other places regarding ingredients, prices, etc.
-   
-
+* As an owner, I want to show models and examples of our work.
+* As an owner, I want to offer the possibility to hire a artist via email.
+* As an owner, I want my website to be easy to use and simple as to get the point across withou problems.
+* As a user, I want to be able to get in into contact with the studio on multiple platforms.
+* As a user, I want to be able to see examples of the work that is offered.
+* As a user, I want to be able to see how the studio works and what they offer.
+* As a user, i want to be able to easily access the social media accounts
+  
 
 2. Features
 2.1. Existing features
