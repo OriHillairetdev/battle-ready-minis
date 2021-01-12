@@ -16,16 +16,16 @@
     and get into contact with in a simple and easy manner.
 
 1.2. User Stories
-*As an owner, I want to show off what we can do to attract more clients.
-*As an owner, I want to offer the possibility to book online to avoid unnecessary calls during busy hours.
-*As an owner, I want my website to be easy recognisable through the icon in the tab and also through the name on the fixed navbar while the customers are navigating through the site.
-*As a user, I want to be able to get in touch with the restaurant for any reason.
-*As a user, I want to be able to check the opening hours and to see the restaurant's location.
-*As a curious user, I want to know more about the owner's stories.
-*As a person with an allergy, I want to be able to check out the menu in advance to see if this place is a good option for me.
-*As a person celebrating a special occasion, I want to be able to book a table in advance so nothing goes wrong.
-*As a regular customer, I want to check out the menu before my next visit so I can check out if there are any new dishes.
-*As a potential client, I would like to see the the menu and compare it to other places regarding ingredients, prices, etc.
+* As an owner, I want to show off what we can do to attract more clients.
+* As an owner, I want to offer the possibility to book online to avoid unnecessary calls during busy hours.
+* As an owner, I want my website to be easy recognisable through the icon in the tab and also through the name on the fixed navbar while the customers are navigating through the site.
+* As a user, I want to be able to get in touch with the restaurant for any reason.
+* As a user, I want to be able to check the opening hours and to see the restaurant's location.
+* As a curious user, I want to know more about the owner's stories.
+* As a person with an allergy, I want to be able to check out the menu in advance to see if this place is a good option for me.
+* As a person celebrating a special occasion, I want to be able to book a table in advance so nothing goes wrong.
+* As a regular customer, I want to check out the menu before my next visit so I can check out if there are any new dishes.
+* As a potential client, I would like to see the the menu and compare it to other places regarding ingredients, prices, etc.
    
 
 
