@@ -1,6 +1,19 @@
 1. UX
 1.1. Project Goals
+    The website is desgined to be a commision painting site for wargames and hobby painters if a 
+    person does not want to or have the time to paint his own minitures he can come here and make use of the service 
 
+    Once they have clicked on the website they will get a small description and have 3 options 
+    home gallery and contact us 
+
+    Home holds all of the base information
+
+    Gallery shows examples of the qauility of work 
+
+    Contact will be where the customer can contact the studio 
+
+    The end goal is a simple website that will allow the customer to get all the information they beed 
+    and get into contact with in a simple and easy manner.
 
 1.2. User Stories
 
