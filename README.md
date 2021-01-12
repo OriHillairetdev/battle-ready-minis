@@ -36,18 +36,20 @@ The Header includes:
 
 The Footer includes:
 
-* Contact Details: includes Phone Number and Email Address and it allows users to contact the restaurant if they have any enquiry.
-* Logo: allows users to easily recognise the business’ identity and it separates it instantly from competition.
-* Social: allows users to know more about the restaurant and to read other people’s reviews. These are all links to the main pages since this is a fictional restaurant.
+* Pricing details: A small list of the pricing used by the studio.
+* Social: a collection of social media link that will take the user to those affliliated pages.
 * Both the Header and the Footer are consistent throughout the website.
 
 2.2. Features left to implement in the future
+
+* More technical gallery: I would like to change the gallary to a more dynamic and technical version.
+* Videos: add videos of painting techniques and showcases.
+
 
 3. Technologies used
 HTML5 - provides the content and structure for my website.
 CSS3 - provides the styling.
 Bootstrap - used to create the layout of the project.
-
 Gitpod - used to develop the website.
 GitHub - used to host the project.
 Google Fonts - used to provide the fonts Josefin Slab for the main text, and Fredericka the Great for headers.
@@ -80,10 +82,19 @@ Change the current working directory to the location where you want the cloned d
 Type git clone, and then paste the URL copied from GitHub.
 Press enter and the local clone will be created.
 6. Credits
+
 6.1. Content
+
+Most of the text in this site was made up my myself for the website.
+
+Took inspiration from the love running project.
+
+
+
 
 6.2. Media
 
+The images where taken on my samsung note 4, the rest where sourced for the websites "ForgeWorld" "DakkaDakka".
 
 6.1. Acknowledgments
 
