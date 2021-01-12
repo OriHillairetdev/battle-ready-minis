@@ -29,6 +29,18 @@ and get into contact with in a simple and easy manner.
 2. Features
 2.1. Existing features
 
+The Header includes:
+
+* Studios name: allows the user to know what studio they are dealing with.
+* Navigation Bar: allows users to navigate the site in an easy and intuitive way.
+
+The Footer includes:
+
+* Contact Details: includes Phone Number and Email Address and it allows users to contact the restaurant if they have any enquiry.
+* Logo: allows users to easily recognise the business’ identity and it separates it instantly from competition.
+* Social: allows users to know more about the restaurant and to read other people’s reviews. These are all links to the main pages since this is a fictional restaurant.
+* Both the Header and the Footer are consistent throughout the website.
+
 2.2. Features left to implement in the future
 
 3. Technologies used
