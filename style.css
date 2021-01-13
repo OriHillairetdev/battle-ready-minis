@@ -10,7 +10,7 @@ html, body {
 }
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Assets/images/wolfsbane.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Assets/Images/wolfsbane.jpg");
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
@@ -43,7 +43,7 @@ html, body {
 }
 
 #circle-bg-center{
-  background: url("Assets/images/center_model.jpg") no-repeat center center  ;
+  background: url("Assets/Images/center_model.jpg") no-repeat center center  ;
   height: 100%;
   border-radius: 50%; }
 
@@ -62,7 +62,7 @@ html, body {
 }
 
 #circle-bg-left{
-  background: url("Assets/images/left_model.jpg") no-repeat center center  ;
+  background: url("Assets/Images/left_model.jpg") no-repeat center center  ;
   height: 100%;
   border-radius: 50%; }
 
@@ -80,7 +80,7 @@ html, body {
 }
 
 #circle-bg-right{
-  background: url("Assets/images/right_model.jpg") no-repeat center center  ;
+  background: url("Assets/Images/right_model.jpg") no-repeat center center  ;
   height: 100%;
   border-radius: 50%; }
 
