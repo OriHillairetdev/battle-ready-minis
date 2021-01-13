@@ -1,3 +1,12 @@
+# Battle Ready Minis
+
+![alt text](/workspace/battle-ready-minis/Readme/README.md)
+
+Battle ready minitures is a fictional minture model painting studio founded by a team of painters who want to help
+people get thier models painted cheap and easy so that more people would have painted models on the table top 
+
+Link to the deployed website [Battle Ready Minis](https://orihillairetdev.github.io/battle-ready-minis/)
+
 1. UX
 1.1. Project Goals
 The website is desgined to be a commision painting site for wargames and hobby painters if a 
