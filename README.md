@@ -26,7 +26,6 @@ Link to the deployed website [Battle Ready Minis](https://orihillairetdev.github
     The end goal is a simple website that will allow the customer to get all the information they beed 
     and get into contact with in a simple and easy manner.
 
-
     1.2. User Stories
 
 * As an owner, I want to show models and examples of our work.
@@ -63,7 +62,6 @@ Link to the deployed website [Battle Ready Minis](https://orihillairetdev.github
 * More technical gallery: I would like to change the gallary to a more dynamic and technical version.
 * Videos: add videos of painting techniques and showcases.
 
-
 3. Technologies used
     *    HTML5 - provides the content and structure for my website.
     *    CSS3 - provides the styling.
@@ -73,17 +71,16 @@ Link to the deployed website [Battle Ready Minis](https://orihillairetdev.github
     *    Google Fonts - used to provide the fonts Josefin Slab for the main text, and Fredericka the Great for headers.
     *    Font Awesome - used the font awesome icons to style the information and the links in the footer, and also to make the Reservation section stand out a small bit.
 
-
 4. Testing
 
     [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
     There where a few errors on the initial test that where easily fixed via the validation function 
 
-    [HTML Validator ](https://validator.w3.org/)
+    [HTML Validator](https://validator.w3.org/)
 
     All three of the test showd an error with a paragraph ending but removal of the error caused other problems 
-    to occur so it was left for conviniance sake.
+    to occur so it was left for convenience sake.
 
     Browser Testing 
 
@@ -92,7 +89,7 @@ Link to the deployed website [Battle Ready Minis](https://orihillairetdev.github
     * Edge
     * Firefox 
 
-    Chrome and edge has no problems and loaded fast and with no problems everything was at the right scale and there where no problems 
+    Chrome and edge have no problems and loaded fast and with no problems everything was at the right scale and there where no problems 
 
     Firefox had a strange delay of about two seconds for all the images to load but after they wher laoded everything functioned as normal 
 
@@ -109,7 +106,7 @@ Link to the deployed website [Battle Ready Minis](https://orihillairetdev.github
     has planned on any resolution other than my own causing the entire page to turn into a confusing mess that was hard to navigate
     in addition to that the pricing section also did not adjust causing the sentances to get cut off and become impossible to read 
 
-    this is a major flaw and will need to be adressed.
+    this is a major flaw and will need to be addressed.
 
     Gallery design flaw   :
     
@@ -140,7 +137,7 @@ Link to the deployed website [Battle Ready Minis](https://orihillairetdev.github
     To clone this project from GitHub:
 
     Under the repository’s name, click Clone or download.
-    In the Clone with hTTPS section, copy the given URL.
+    In the Clone with HTTPs section, copy the given URL.
     In your IDE of choice, open Git Bash.
     Change the current working directory to the location where you want the cloned directory to be made.
     Type git clone, and then paste the URL copied from GitHub.
@@ -155,11 +152,10 @@ Link to the deployed website [Battle Ready Minis](https://orihillairetdev.github
     Took inspiration from the love running project and multiple model paitning Studios
     of various fidelity.
 
-
     6.2. Media
 
     The images where taken on my samsung note 4, the rest where sourced for the websites "ForgeWorld" "DakkaDakka" .
-    all rights belong to Gamesworkshop and Forge world 
+    all rights belong to Games workshop and Forge world 
 
     6.1. Acknowledgments
 
