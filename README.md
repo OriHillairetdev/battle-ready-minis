@@ -37,6 +37,11 @@ Link to the deployed website [Battle Ready Minis](https://orihillairetdev.github
 * As a user, I want to be able to see how the studio works and what they offer.
 * As a user, i want to be able to easily access the social media accounts
   
+  1.3 Wireframe
+
+  Home:
+  Gallery:
+  Contact:
 
 2. Features
 
