@@ -1,6 +1,6 @@
 # Battle Ready Minis
 
-![BattleReadyHomepage](/workspace/battle-ready-minis/Readme/ReadmeLinks/Homepage.png)
+![BattleReadyHomepage](../ReadmeLinks/Homepage.png)
 
 Battle ready minitures is a fictional minture model painting studio founded by a team of painters who want to help
 people get thier models painted cheap and easy so that more people would have painted models on the table top 
@@ -66,6 +66,17 @@ Font Awesome - used the font awesome icons to style the information and the link
 
 
 4. Testing
+[CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+There where a few errors on the initial test that where easily fixed via the validation function 
+
+[HTML Validator ](https://validator.w3.org/)
+
+Home 
+
+Gallery
+
+Contact
 
 
 5. Deployment
@@ -96,17 +107,19 @@ Press enter and the local clone will be created.
 
 Most of the text in this site was made up my myself for the website.
 
-Took inspiration from the love running project.
+Took inspiration from the love running project and multiple model paitning Studios
+of various fidelity.
+
+
 
 
 
 
 6.2. Media
 
-The images where taken on my samsung note 4, the rest where sourced for the websites "ForgeWorld" "DakkaDakka".
+The images where taken on my samsung note 4, the rest where sourced for the websites "ForgeWorld" "DakkaDakka" .
+all rights belong to Gamesworkshop and Forge world 
 
 6.1. Acknowledgments
 
-4. Testing
-The testing process can be seen here.
-
+[CSS Validator](https://orihillairetdev.github.io/battle-ready-minis/)
