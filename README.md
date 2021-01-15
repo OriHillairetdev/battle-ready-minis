@@ -66,20 +66,50 @@ Font Awesome - used the font awesome icons to style the information and the link
 
 
 4. Testing
+
 [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 There where a few errors on the initial test that where easily fixed via the validation function 
 
 [HTML Validator ](https://validator.w3.org/)
 
-Home 
+All three of the test showd an error with a paragraph ending but removal of the error caused other problems 
+to occur so it was left for conviniance sake.
 
-Gallery
+Browser Testing 
 
-Contact
+Browsers
+* Chrome
+* Edge
+* Firefox 
 
+Chrome and edge has no problems and loaded fast and with no problems everything was at the right scale and there where no problems 
+
+Firefox had a strange delay of about two seconds for all the images to load but after they wher laoded everything functioned as normal 
+
+Resolution and different device testing 
+
+This caused the most problems out of all the tests and a few of them are unresolved.
+All the tests done on my native resolution worked fine and the project was showing exactly as i had planned 
+
+as soon as i used the Google Dev tools i noticed a huge design flaw in the home amd gallery page 
+
+Home pages design flaw: The three images intented to intice the new user and the text that followd them was not readjusting on showing as i 
+                        has planned on any resolution other than my own causing the entire page to turn into a confusing mess that was hard to navigate
+                        in addition to that the pricing section also did not adjust causing the sentances to get cut off and become impossible to read 
+
+                        this is a majot flaw and will need to be adressed.
+
+Gallery design flaw   : while not as sevire as the home page the gallery suffers from a simmilar problem that of the images not spacing or being 
+                        nice to look at along with some images suddenly failing to load (seems the origonal links are dead)
+
+                        the second problem is that at cellphone portait sizes the images get cut off.
+
+Contact flaws         : The contact page suffers the same problem as the home page and the pricing gets cut off at smaller screen sizes
+                        the rest of the contact pages scales and works well.                        
 
 5. Deployment
+
 To deploy the project
 
 This project is hosted in GitHub Pages
@@ -101,6 +131,7 @@ In your IDE of choice, open Git Bash.
 Change the current working directory to the location where you want the cloned directory to be made.
 Type git clone, and then paste the URL copied from GitHub.
 Press enter and the local clone will be created.
+
 6. Credits
 
 6.1. Content
@@ -111,10 +142,6 @@ Took inspiration from the love running project and multiple model paitning Studi
 of various fidelity.
 
 
-
-
-
-
 6.2. Media
 
 The images where taken on my samsung note 4, the rest where sourced for the websites "ForgeWorld" "DakkaDakka" .
@@ -122,4 +149,6 @@ all rights belong to Gamesworkshop and Forge world
 
 6.1. Acknowledgments
 
-[CSS Validator](https://orihillairetdev.github.io/battle-ready-minis/)
+Precious Ljege for helping me sort out my mess and in fixing it 
+
+Student Help for replying to my many emails asking questions 
