@@ -103,19 +103,24 @@ Link to the deployed website [Battle Ready Minis](https://orihillairetdev.github
 
     as soon as i used the Google Dev tools i noticed a huge design flaw in the home amd gallery page 
 
-    Home pages design flaw: The three images intented to intice the new user and the text that followd them was not readjusting on showing as i 
-                            has planned on any resolution other than my own causing the entire page to turn into a confusing mess that was hard to navigate
-                            in addition to that the pricing section also did not adjust causing the sentances to get cut off and become impossible to read 
+    Home pages design flaw: 
+    
+    The three images intented to intice the new user and the text that followd them was not readjusting on showing as i 
+    has planned on any resolution other than my own causing the entire page to turn into a confusing mess that was hard to navigate
+    in addition to that the pricing section also did not adjust causing the sentances to get cut off and become impossible to read 
 
-                            this is a major flaw and will need to be adressed.
+    this is a major flaw and will need to be adressed.
 
-    Gallery design flaw   : while not as sevire as the home page the gallery suffers from a simmilar problem that of the images not spacing or being 
-                            nice to look at along with some images suddenly failing to load (seems the origonal links are dead)
+    Gallery design flaw   :
+    
+    while not as sevire as the home page the gallery suffers from a simmilar problem that of the images not spacing or being 
+    nice to look at along with some images suddenly failing to load (seems the origonal links are dead)
 
-                            the second problem is that at cellphone portait sizes the images get cut off.
+    the second problem is that at cellphone portait sizes the images get cut off.
 
-    Contact flaws         : The contact page suffers the same problem as the home page and the pricing gets cut off at smaller screen sizes
-                            the rest of the contact pages scales and works well.                        
+    Contact flaws         : 
+    The contact page suffers the same problem as the home page and the pricing gets cut off at smaller screen sizes
+    the rest of the contact pages scales and works well.                        
 
 5. Deployment
 
