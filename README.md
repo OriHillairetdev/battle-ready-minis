@@ -11,20 +11,20 @@ Link to the deployed website [Battle Ready Minis](https://orihillairetdev.github
 
     1.1. Project Goals
 
-        The website is desgined to be a commision painting site for wargames and hobby painters if a 
-        person does not want to or have the time to paint his own minitures he can come here and make use of the service 
+    The website is desgined to be a commision painting site for wargames and hobby painters if a 
+    person does not want to or have the time to paint his own minitures he can come here and make use of the service 
 
-        Once they have clicked on the website they will get a small description and have 3 options 
-        home gallery and contact us 
+    Once they have clicked on the website they will get a small description and have 3 options 
+    home gallery and contact us 
 
-        Home holds all of the base information
+    Home holds all of the base information
 
-        Gallery shows examples of the qauility of work 
+    Gallery shows examples of the qauility of work 
 
-        Contact will be where the customer can contact the studio 
+    Contact will be where the customer can contact the studio 
 
-        The end goal is a simple website that will allow the customer to get all the information they beed 
-        and get into contact with in a simple and easy manner.
+    The end goal is a simple website that will allow the customer to get all the information they beed 
+    and get into contact with in a simple and easy manner.
 
 
     1.2. User Stories
@@ -39,9 +39,9 @@ Link to the deployed website [Battle Ready Minis](https://orihillairetdev.github
   
   1.3 Wireframe
 
-  Home:
-  Gallery:
-  Contact:
+  Home:     
+  Gallery:  
+  Contact:  
 
 2. Features
 
@@ -104,18 +104,18 @@ Link to the deployed website [Battle Ready Minis](https://orihillairetdev.github
     as soon as i used the Google Dev tools i noticed a huge design flaw in the home amd gallery page 
 
     Home pages design flaw: The three images intented to intice the new user and the text that followd them was not readjusting on showing as i 
-                                has planned on any resolution other than my own causing the entire page to turn into a confusing mess that was hard to navigate
-                                in addition to that the pricing section also did not adjust causing the sentances to get cut off and become impossible to read 
+                            has planned on any resolution other than my own causing the entire page to turn into a confusing mess that was hard to navigate
+                            in addition to that the pricing section also did not adjust causing the sentances to get cut off and become impossible to read 
 
-                                this is a majot flaw and will need to be adressed.
+                            this is a major flaw and will need to be adressed.
 
     Gallery design flaw   : while not as sevire as the home page the gallery suffers from a simmilar problem that of the images not spacing or being 
-                                nice to look at along with some images suddenly failing to load (seems the origonal links are dead)
+                            nice to look at along with some images suddenly failing to load (seems the origonal links are dead)
 
-                                the second problem is that at cellphone portait sizes the images get cut off.
+                            the second problem is that at cellphone portait sizes the images get cut off.
 
     Contact flaws         : The contact page suffers the same problem as the home page and the pricing gets cut off at smaller screen sizes
-                                the rest of the contact pages scales and works well.                        
+                            the rest of the contact pages scales and works well.                        
 
 5. Deployment
 
