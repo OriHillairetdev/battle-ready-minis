@@ -39,9 +39,9 @@ Link to the deployed website [Battle Ready Minis](https://orihillairetdev.github
   
   1.3 Wireframe
 
-  Home:     
-  Gallery:  
-  Contact:  
+  [Home](battle-ready-minis/Readme/Wireframes/Home/)     
+  [Gallery](battle-ready-minis/Readme/Wireframes/Gallery/)
+  [Contact](battle-ready-minis/Readme/Wireframes/Contact/)
 
 2. Features
 
