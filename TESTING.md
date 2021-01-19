@@ -55,9 +55,7 @@ Firefox had a strange delay where the Images took 2 seconds longer to load than 
   - On the **Gallery** the user can see examples of different work that has been done.
 
 - As an owner, I want to offer the possibility to book online to avoid unnecessary calls during busy hours.
-
   and
-
 - As a person i want to be able to avoid calling to set up a commision.
   - The user can find a simple method to contact the studio on the **Contact page**.
   

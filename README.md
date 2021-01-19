@@ -155,12 +155,18 @@ To clone this project from GitHub:
 
 Most of the text in this site was made up my myself for the website.
 
-Took inspiration from the love running project and multiple model paitning Studios
+Took inspiration from the love running project and multiple model painting Studios
 of various fidelity.
+
+[seigestudios](https://siegestudios.co.uk/)
+
+[the miniture painting service](https://theminiaturepaintingservice.co.uk/)
+
+[front line gaming ](https://www.frontlinegaming.org/paint-service/)
 
 ####  6.2. Media
 
-The images where taken on my samsung note 4, the rest where sourced for the websites "ForgeWorld" "DakkaDakka" .
+The images where taken on my samsung note 4, the rest where sourced for the websites [Dakka Dakka](https://www.dakkadakka.com/) [Forgeworld](https://www.forgeworld.co.uk/en-GB/FW-Home.)
 all rights belong to Games workshop and Forge world 
 
 ####  6.3. Acknowledgments
