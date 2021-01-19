@@ -6,7 +6,7 @@
 
 - Home Page
 
-![Home Page HTML Validator](/Testingimages/HomeTest.jpg)
+![Home Page HTML Validator](/ReadmeFiles/HomeTest.jpg)
 
 
 
@@ -14,23 +14,23 @@ The warnings were ignored since they were design decisions.
 
 - Gallery Page
 
-![GalleryPage HTML Validator](/Testingimages/GalleryTest.jpg)
+![GalleryPage HTML Validator](/ReadmeFiles/GalleryTest.jpg)
 
 - Contact Page
 
-![Contact Page HTML Validator](/Testingimages/Contact.jpg)
+![Contact Page HTML Validator](/ReadmeFiles/Contact.jpg)
 
 The warning was ignored following design decisions.
 
 
 [CSS Validator](https://jigsaw.w3.org//css-validator/) : the test didn't find any errors.
 
-![CSS Validator](/Testingimages/Csstest.jpg)
+![CSS Validator](/ReadmeFiles/Csstest.jpg)
 
 ## Responsiveness
 
 To test the responsiveness of the site I used [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) 
-![Responsive Design](/Testingimages/Testingres.jpg)
+![Responsive Design](/ReadmeFiles/Testingres.jpg)
 
 Notes:
 
