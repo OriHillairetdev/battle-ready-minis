@@ -114,8 +114,8 @@ The Footer includes:
 - [Figma](https://www.figma.com/) - used to create the project's wireframes.
 - [Gitpod](https://gitpod.io/) - used to develop the website.
 - [GitHub](https://github.com/) - used to host the project.
-- [Google Fonts](https://fonts.google.com/) - used to provide the fonts Josefin Slab for the main text, and Fredericka the Great for headers.
-- [Font Awesome](https://fontawesome.com/) - used the font awesome icons to style the information and the links in the footer, and also to make the Reservation section stand out a small bit.
+- [Google Fonts](https://fonts.google.com/) - used to provide the fonts.
+- [Font Awesome](https://fontawesome.com/) - used the font awesome icons to style the information and the links in the footer.
 
 
 
