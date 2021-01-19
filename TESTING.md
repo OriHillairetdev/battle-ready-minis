@@ -6,7 +6,7 @@
 
 - Home Page
 
-![Home Page HTML Validator](ReadmeFiles/estingimages/HomeTest.png)
+![Home Page HTML Validator](/workspace/battle-ready-minis/ReadmeFiles/Testingimages/HomeTest.png)
 
 The test returned an error that was solved by adding an empty value attribute. 
 
@@ -14,23 +14,23 @@ The warnings were ignored since they were design decisions.
 
 - Gallery Page
 
-![GalleryPage HTML Validator](ReadmeFiles/Testingimages/GalleryTest.png)
+![GalleryPage HTML Validator](/workspace/battle-ready-minis/ReadmeFiles/Testingimages/GalleryTest.png)
 
 - Contact Page
 
-![Contact Page HTML Validator](ReadmeFiles/Testingimages/Contact.png)
+![Contact Page HTML Validator](/workspace/battle-ready-minis/ReadmeFiles/Testingimages/Contact.png)
 
 The warning was ignored following design decisions.
 
 
 [CSS Validator](https://jigsaw.w3.org//css-validator/) : the test didn't find any errors.
 
-![CSS Validator](ReadmeFiles/Testingimages/Csstest.png)
+![CSS Validator](/workspace/battle-ready-minis/ReadmeFiles/Testingimages/Csstest.png)
 
 ## Responsiveness
 
 To test the responsiveness of the site I used [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) 
-![Responsive Design](ReadmeFiles/Testingimages/Testingres.png)
+![Responsive Design](/workspace/battle-ready-minis/ReadmeFiles/Testingimages/Testingres.png)
 
 Notes:
 
