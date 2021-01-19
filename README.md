@@ -50,10 +50,50 @@ and get into contact with in a simple and easy manner.
 
 #### 2.1. Existing features
 
+**Home**
+
 The Header includes:
 
 * Studios name: allows the user to know what studio they are dealing with.
 * Navigation Bar: allows users to navigate the site in an easy and intuitive way.
+
+The Body includes:
+
+* Three examples of the type of work that can be done these are in circular frames.
+* A small about section that informs the user what the studio does.
+
+The Footer includes:
+
+* Pricing details: A small list of the pricing used by the studio.
+* Social: a collection of social media link that will take the user to those affliliated pages.
+* Both the Header and the Footer are consistent throughout the website.
+
+**Gallery**
+
+The Header includes:
+
+* Studios name: allows the user to know what studio they are dealing with.
+* Navigation Bar: allows users to navigate the site in an easy and intuitive way.
+
+The Body includes:
+
+* Multiple pictures from previous works in a simple to see format.
+
+The Footer includes:
+
+* Buttons to connect to social media.
+
+**Contact**
+
+The Header includes:
+
+* Studios name: allows the user to know what studio they are dealing with.
+* Navigation Bar: allows users to navigate the site in an easy and intuitive way.
+
+The Body includes:
+
+* A contact box to send emails.
+* A Box that you use to send a description of your project so a dialog can be started.
 
 The Footer includes:
 

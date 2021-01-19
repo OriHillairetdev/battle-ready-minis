@@ -6,7 +6,7 @@
 
 - Home Page
 
-![Home Page HTML Validator](/ReadmeFiles/HomeTest.jpg)
+![Home Page HTML Validator](/ReadmeFiles/HomeTest.png)
 
 
 
@@ -14,11 +14,11 @@ The warnings were ignored since they were design decisions.
 
 - Gallery Page
 
-![GalleryPage HTML Validator](/ReadmeFiles/GalleryTest.jpg)
+![GalleryPage HTML Validator](/ReadmeFiles/GalleryHtml.png)
 
 - Contact Page
 
-![Contact Page HTML Validator](/ReadmeFiles/Contact.jpg)
+![Contact Page HTML Validator](/ReadmeFiles/ContactHtml.png)
 
 The warning was ignored following design decisions.
 
