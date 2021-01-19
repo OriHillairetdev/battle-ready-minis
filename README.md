@@ -77,52 +77,7 @@ The Footer includes:
 
 ## 4. Testing
 
-[CSS Validator](https://jigsaw.w3.org/css-validator/)
-
-There where a few errors on the initial test that where easily fixed via the validation function 
-
-[HTML Validator](https://validator.w3.org/)
-
-All three of the test showd an error with a paragraph ending but removal of the error caused other problems 
-to occur so it was left for convenience sake.
-
-Browser Testing 
-
-Browsers
-* Chrome
-* Edge
-* Firefox 
-
-Chrome and edge have no problems and loaded fast and with no problems everything was at the right scale and there where no problems 
-
-Firefox had a strange delay of about two seconds for all the images to load but after they wher laoded everything functioned as normal 
-
-Resolution and different device testing 
-
-This caused the most problems out of all the tests and a few of them are unresolved.
-All the tests done on my native resolution worked fine and the project was showing exactly as i had planned 
-
-as soon as i used the Google Dev tools i noticed a huge design flaw in the home amd gallery page 
-
-Home pages design flaw: 
-    
-The three images intented to intice the new user and the text that followd them was not readjusting on showing as i 
-has planned on any resolution other than my own causing the entire page to turn into a confusing mess that was hard to navigate
-in addition to that the pricing section also did not adjust causing the sentances to get cut off and become impossible to read 
-
-this is a major flaw and will need to be addressed.
-
-Gallery design flaw   :
-    
-while not as sevire as the home page the gallery suffers from a simmilar problem that of the images not spacing or being 
-nice to look at along with some images suddenly failing to load (seems the origonal links are dead)
-
-the second problem is that at cellphone portait sizes the images get cut off.
-
-Contact flaws         : 
-
-The contact page suffers the same problem as the home page and the pricing gets cut off at smaller screen sizes
-the rest of the contact pages scales and works well.                        
+The testing process can be seen [here](TESTING.md).
 
 ## 5. Deployment
 
