@@ -6,31 +6,31 @@
 
 - Home Page
 
-![Home Page HTML Validator](/Testingimages/HomeTest.png)
+![Home Page HTML Validator](/Testingimages/HomeTest.jpg)
 
-The test returned an error that was solved by adding an empty value attribute. 
+
 
 The warnings were ignored since they were design decisions. 
 
 - Gallery Page
 
-![GalleryPage HTML Validator](/Testingimages/GalleryTest.png)
+![GalleryPage HTML Validator](/Testingimages/GalleryTest.jpg)
 
 - Contact Page
 
-![Contact Page HTML Validator](/Testingimages/Contact.png)
+![Contact Page HTML Validator](/Testingimages/Contact.jpg)
 
 The warning was ignored following design decisions.
 
 
 [CSS Validator](https://jigsaw.w3.org//css-validator/) : the test didn't find any errors.
 
-![CSS Validator](/Testingimages/Csstest.png)
+![CSS Validator](/Testingimages/Csstest.jpg)
 
 ## Responsiveness
 
 To test the responsiveness of the site I used [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) 
-![Responsive Design](/Testingimages/Testingres.png)
+![Responsive Design](/Testingimages/Testingres.jpg)
 
 Notes:
 
