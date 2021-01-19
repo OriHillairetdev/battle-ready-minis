@@ -7,9 +7,9 @@ people get thier models painted cheap and easy so that more people would have pa
 
 Link to the deployed website [Battle Ready Minis](https://orihillairetdev.github.io/battle-ready-minis/)
 
-1. UX
+## 1. UX
 
-    1.1. Project Goals
+   #### 1.1. Project Goals
 
     The website is desgined to be a commision painting site for wargames and hobby painters if a 
     person does not want to or have the time to paint his own minitures he can come here and make use of the service 
@@ -26,7 +26,7 @@ Link to the deployed website [Battle Ready Minis](https://orihillairetdev.github
     The end goal is a simple website that will allow the customer to get all the information they beed 
     and get into contact with in a simple and easy manner.
 
-    1.2. User Stories
+   #### 1.2. User Stories
 
 * As an owner, I want to show models and examples of our work.
 * As an owner, I want to offer the possibility to hire a artist via email.
@@ -36,7 +36,7 @@ Link to the deployed website [Battle Ready Minis](https://orihillairetdev.github
 * As a user, I want to be able to see how the studio works and what they offer.
 * As a user, i want to be able to easily access the social media accounts
   
-  1.3 Wireframe
+ #### 1.3 Wireframe
 
   [Home](battle-ready-minis/Readme/Wireframes/Home/) 
 
@@ -44,9 +44,9 @@ Link to the deployed website [Battle Ready Minis](https://orihillairetdev.github
 
   [Contact](battle-ready-minis/Readme/Wireframes/Contact/) 
 
-2. Features
+## 2. Features
 
-    2.1. Existing features
+   #### 2.1. Existing features
 
     The Header includes:
 
@@ -59,12 +59,12 @@ Link to the deployed website [Battle Ready Minis](https://orihillairetdev.github
 * Social: a collection of social media link that will take the user to those affliliated pages.
 * Both the Header and the Footer are consistent throughout the website.
 
-    2.2. Features left to implement in the future
+####  2.2. Features left to implement in the future
 
 * More technical gallery: I would like to change the gallary to a more dynamic and technical version.
 * Videos: add videos of painting techniques and showcases.
 
-3. Technologies used
+## 3. Technologies used
     *    HTML5 - provides the content and structure for my website.
     *    CSS3 - provides the styling.
     *    Bootstrap - used to create the layout of the project.
@@ -73,7 +73,7 @@ Link to the deployed website [Battle Ready Minis](https://orihillairetdev.github
     *    Google Fonts - used to provide the fonts Josefin Slab for the main text, and Fredericka the Great for headers.
     *    Font Awesome - used the font awesome icons to style the information and the links in the footer, and also to make the Reservation section stand out a small bit.
 
-4. Testing
+## 4. Testing
 
     [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
@@ -121,7 +121,7 @@ Link to the deployed website [Battle Ready Minis](https://orihillairetdev.github
     The contact page suffers the same problem as the home page and the pricing gets cut off at smaller screen sizes
     the rest of the contact pages scales and works well.                        
 
-5. Deployment
+## 5. Deployment
 
     To deploy the project
 
@@ -145,21 +145,21 @@ Link to the deployed website [Battle Ready Minis](https://orihillairetdev.github
     Type git clone, and then paste the URL copied from GitHub.
     Press enter and the local clone will be created.
 
-6. Credits
+## 6. Credits
 
-    6.1. Content
+   #### 6.1. Content
 
     Most of the text in this site was made up my myself for the website.
 
     Took inspiration from the love running project and multiple model paitning Studios
     of various fidelity.
 
-    6.2. Media
+  ####  6.2. Media
 
     The images where taken on my samsung note 4, the rest where sourced for the websites "ForgeWorld" "DakkaDakka" .
     all rights belong to Games workshop and Forge world 
 
-    6.1. Acknowledgments
+  ####  6.3. Acknowledgments
 
     Precious Ljege for helping me sort out my mess and in fixing it 
 
